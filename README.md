@@ -4,9 +4,6 @@ I'm a Data Analytics student at TripleTen and currently work at MSD in Switzerla
 
 I'm passionate about data, technology, and continuous learning. My goal is to build a career in Data Analytics by applying data-driven solutions to real-world business problems.
 
-## 💼 Current Position
-- Clinical Packaging - MSD
-
 ## 🎓 Education
 - TripleTen Data Analytics Bootcamp
 
