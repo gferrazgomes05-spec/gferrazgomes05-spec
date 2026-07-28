@@ -32,8 +32,8 @@ I'm passionate about data, technology, and continuous learning. My goal is to bu
 
 ## 🌍 Languages
 - Portuguese (Native)
-- English (A2)
 - German (C1)
+- English (A2)
 
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/gabriella-ferraz-gomes)
