@@ -8,27 +8,38 @@ My goal is to transition into a Data Analyst role, combining my pharmaceutical o
 
 ## Selected projects
 
+### [Meta Ads Campaign Performance Analysis](https://github.com/gferrazgomes05-spec/meta-ads-campaign-analysis)
+
+Analyzes real Meta Ads campaign data for an e-commerce business to identify the strongest audience segments and ad creatives. Evaluates clicks, add-to-cart behavior, purchases, CTR, CPC, and conversion costs to support marketing and budget allocation decisions.
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn.
+
 ### [Mobile App Funnel & A/A/B Testing](https://github.com/gferrazgomes05-spec/mobile-app-aab-testing)
+
 Analysis of 7,534 users and a font-design experiment. Identifies the largest gap in event reach and evaluates 20 statistical comparisons with Bonferroni correction; no significant differences remain after adjustment.
 
 **Tools:** Python, Pandas, SciPy, Matplotlib.
 
 ### [Los Angeles Restaurant Market Analysis](https://github.com/gferrazgomes05-spec/los-angeles-restaurant-market-analysis)
+
 Explores 9,648 food establishments, chain prevalence, seating capacity, and street concentrations to inform a compact cafe pilot. Includes recommendations and the limits of the available market data.
 
 **Tools:** Python, Pandas, Matplotlib, Seaborn.
 
 ### [E-commerce A/B Test & Hypothesis Prioritization](https://github.com/gferrazgomes05-spec/ecommerce-ab-test-analysis)
+
 Ranks growth ideas with ICE/RICE and examines an A/B test, outliers, and orders per visit. Identifies a promising variant while documenting cross-group assignment and inference limitations.
 
 **Tools:** Python, Pandas, NumPy, SciPy, Matplotlib.
 
 ### [Marketing Performance & Cohort Analysis](https://github.com/gferrazgomes05-spec/marketing-cohort-analysis)
+
 Connects 359,400 sessions and 50,415 orders with acquisition spending. Examines retention, observed cohort revenue, acquisition costs, and channel returns with explicit attribution and profitability limits.
 
 **Tools:** Python, Pandas, Matplotlib, Seaborn.
 
-These projects were developed during the TripleTen Data Analytics bootcamp.
+The Meta Ads project is an independent analysis based on real business data.  
+The remaining projects were developed during the TripleTen Data Analytics bootcamp.
 
 ## Technical skills
 
