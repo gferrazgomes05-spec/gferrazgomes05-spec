@@ -23,16 +23,10 @@ Ranks growth ideas with ICE/RICE and examines an A/B test, outliers, and orders 
 
 **Tools:** Python, Pandas, NumPy, SciPy, Matplotlib.
 
-### [Video Game Sales Analysis](https://github.com/gferrazgomes05-spec/tripleten-integrated-project-1)
-Analysis of video game sales across platforms, genres, and regions, including user and critic ratings and hypothesis testing.
+### [Marketing Performance & Cohort Analysis](https://github.com/gferrazgomes05-spec/marketing-cohort-analysis)
+Connects 359,400 sessions and 50,415 orders with acquisition spending. Examines retention, observed cohort revenue, acquisition costs, and channel returns with explicit attribution and profitability limits.
 
-**Tools:** Python, Pandas, NumPy, Matplotlib, Jupyter Notebook.
-
-### [Statistical Data Analysis](https://github.com/gferrazgomes05-spec/tripleten-statistical-data-analysis)
-A Python project applying descriptive statistics and hypothesis testing to support business decision-making.
-
-### [Data Cleaning & Exploratory Analysis](https://github.com/gferrazgomes05-spec/tripleten-data-manipulation)
-Data preparation and exploratory analysis using Python and Pandas.
+**Tools:** Python, Pandas, Matplotlib, Seaborn.
 
 These projects were developed during the TripleTen Data Analytics bootcamp.
 
