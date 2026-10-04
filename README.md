@@ -18,6 +18,11 @@ Explores 9,648 food establishments, chain prevalence, seating capacity, and stre
 
 **Tools:** Python, Pandas, Matplotlib, Seaborn.
 
+### [E-commerce A/B Test & Hypothesis Prioritization](https://github.com/gferrazgomes05-spec/ecommerce-ab-test-analysis)
+Ranks growth ideas with ICE/RICE and examines an A/B test, outliers, and orders per visit. Identifies a promising variant while documenting cross-group assignment and inference limitations.
+
+**Tools:** Python, Pandas, NumPy, SciPy, Matplotlib.
+
 ### [Video Game Sales Analysis](https://github.com/gferrazgomes05-spec/tripleten-integrated-project-1)
 Analysis of video game sales across platforms, genres, and regions, including user and critic ratings and hypothesis testing.
 
