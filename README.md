@@ -1,8 +1,10 @@
 # Hi, I'm Gabriella! 👋
 
-**Aspiring Data Analyst based in Switzerland, with professional experience in the pharmaceutical industry.**
+**Transitioning from pharmaceutical operations to Data Analytics, based in Switzerland.**
 
-I'm studying Data Analytics at TripleTen and currently work at MSD. Through my projects, I use Python and data analysis to explore business questions, evaluate evidence, and communicate findings. I'm interested in opportunities that connect analytical thinking with business and healthcare questions.
+I currently work as a Clinical Packaging Technician at MSD in Switzerland, where I use SAP in my daily work. Alongside my professional role, I'm developing my analytical skills through the TripleTen Data Analytics bootcamp and portfolio projects using Python, SQL, and Pandas.
+
+My goal is to transition into a Data Analyst role, combining my pharmaceutical operations experience with the analytical skills demonstrated in the projects below.
 
 ## Selected projects
 
