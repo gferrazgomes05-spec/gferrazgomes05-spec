@@ -7,6 +7,12 @@ I currently work as a Clinical Packaging Technician in Switzerland and have prof
 
 ## Selected projects
 
+### [YouTube Trending Analysis — Tableau Dashboard](https://public.tableau.com/views/YouTubeTrendingVideosAnalysis_17922551699240/YouTubeTrendingVideosHistoricalRegionalAnalysis)
+
+Historical and regional analysis of YouTube trending categories across five countries, using 12,343 aggregated records and 339,990 trending occurrences. Includes an interactive Tableau dashboard. Counts represent trending occurrences, not unique videos or advertising performance.
+
+**Tools:** Tableau Public.
+
 ### [Meta Ads Campaign Performance Analysis](https://github.com/gferrazgomes05-spec/meta-ads-campaign-analysis)
 
 Analyzes real Meta Ads campaign data for an e-commerce business to identify the strongest audience segments and ad creatives. Evaluates clicks, add-to-cart behavior, purchases, CTR, CPC, and conversion costs to support marketing and budget allocation decisions.
@@ -44,6 +50,7 @@ The remaining projects were developed during the TripleTen Data Analytics bootca
 
 - **Languages and libraries:** Python, SQL, Pandas, NumPy
 - **Analysis:** Data cleaning, exploratory data analysis, statistical analysis, data visualization
+- **BI and dashboards:** Tableau
 - **Workflow:** Jupyter Notebook, Git, GitHub
 
 ## Education
@@ -56,5 +63,5 @@ Portuguese (Native) · German (B2/C1) · English (A2)
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/gabriella-ferraz-gomes)
+[LinkedIn](https://www.linkedin.com/in/gabriellaferrazgomes)
 
