@@ -52,7 +52,7 @@ TripleTen Data Analytics Bootcamp — currently studying.
 
 ## Languages
 
-Portuguese (Native) · German (C1) · English (A2)
+Portuguese (Native) · German (B2/C1) · English (A2)
 
 ## Connect
 
