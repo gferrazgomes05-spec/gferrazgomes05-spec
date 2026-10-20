@@ -2,8 +2,11 @@
 
 **Transitioning from pharmaceutical operations to Data Analytics, based in Switzerland.**
 
-I currently work as a Clinical Packaging Technician in Switzerland and have professional experience using SAP. Alongside my professional role, I'm developing my analytical skills through the TripleTen Data Analytics bootcamp and portfolio projects using Python, SQL, and Pandas.
+I currently work as a Clinical Packaging Technician in Switzerland, where I've gained experience with SAP and GMP procedures.
 
+Alongside my job, I'm developing my skills in Data Analytics through the TripleTen bootcamp, working on hands-on projects using Python, SQL, pandas, and Tableau.
+
+I'm interested in turning data into meaningful insights, solving problems, and continuously learning as I work towards a career in Data Analytics.
 
 ## Selected projects
 
